@@ -1,0 +1,16 @@
+.set-right{
+    float: right;
+    text-decoration: underline;
+}
+
+.profile{
+    display: none;
+}
+.nav-item a:hover{
+    color: black;
+}
+
+.small{
+    font-size: 5px;
+    color: gray;
+}
